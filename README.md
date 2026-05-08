@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Teddy 👋
 
-<!--
-**C1nd4G0d-Bug/C1nd4G0d-Bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería de Sistemas**, enfocado en adquirir habilidades sólidas en desarrollo de software, automatización de procesos y optimización de sistemas. Me apasiona resolver problemas complejos mediante lógica estructurada y código limpio.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Lenguajes de Programación:** C#, Python, JavaScript (ES6+), Bash
+* **Desarrollo Web & Diseño:** HTML5, CSS3, SVG Dinámico, jQuery
+* **Entornos & Herramientas:** Visual Studio, VS Code, Git/GitHub, Termux
+
+### 🚀 En lo que estoy trabajando actualmente
+
+* 🐉 Recreando y optimizando animaciones cinemáticas clásicas mediante vectores dinámicos en la web modernos.
+* 📊 Desarrollando scripts de automatización en Python para la digitalización de registros de datos locales.
+* 🛡️ Explorando herramientas de diagnóstico de red y ciberseguridad en entornos móviles.
+
+### 📫 Cómo contactarme
+
+* **Instagram:** [@0xMAG1C](https://www.instagram.com/0xMAG1C/)
+* **Email:** [goldcindaquil@gmail.com](mailto:goldcindaquil@gmail.com)
+
+---
+*"La mejor forma de predecir el futuro es implementándolo."*
