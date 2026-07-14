@@ -9,10 +9,14 @@
 Soy estudiante de **Ingeniería de Sistemas**, enfocado en adquirir habilidades sólidas en desarrollo de software, automatización de procesos y optimización de sistemas. Me apasiona resolver problemas complejos mediante lógica estructurada y código limpio.
 
 ### 🛠️ Tecnologías y Herramientas
-
-* **Lenguajes de Programación:** C#, Python, JavaScript (ES6+), Bash
-* **Desarrollo Web & Diseño:** HTML5, CSS3, SVG Dinámico, jQuery
-* **Entornos & Herramientas:** Visual Studio, VS Code, Git/GitHub, Termux
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</div>
 
 ### 🚀 En lo que estoy trabajando actualmente
 
