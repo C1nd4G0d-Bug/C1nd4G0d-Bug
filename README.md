@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# ¡Hola! Soy Teddy 👋
+# ¡Hola! Soy Zerif 👋
 
 Soy estudiante de **Ingeniería de Sistemas**, enfocado en adquirir habilidades sólidas en desarrollo de software, automatización de procesos y optimización de sistemas. Me apasiona resolver problemas complejos mediante lógica estructurada y código limpio.
 
