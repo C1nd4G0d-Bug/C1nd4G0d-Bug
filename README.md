@@ -34,4 +34,4 @@ Soy estudiante de **Ingeniería de Sistemas**, enfocado en adquirir habilidades 
 * **Email:** [goldcindaquil@gmail.com](mailto:goldcindaquil@gmail.com)
 
 ---
-*"La mejor forma de predecir el futuro es implementándolo."*
+*"El código miente, la carta distrae. La magia está en lo que todos ignoran."*
