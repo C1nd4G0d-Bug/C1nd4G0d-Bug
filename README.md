@@ -1,6 +1,10 @@
 <div align="center">
+  <img src="laguna.gif" width="100%" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2EFE2E&background=0D111700&center=true&vCenter=true&width=800&lines=%3E_root%40Zerif%3A~%23;%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%8C%E5%A4%A7%E5%A5%BD%E3%81%8D;%E6%88%91%E7%88%B1%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=8DB8FF&background=0D111700&center=true&vCenter=true&width=800&lines=%3E_+%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%9F%E3%83%8E%E3%83%BC%E3%83%89%E3%82%92%E6%8E%A2%E7%B4%A2%E4%B8%AD...;%3E_+Escuchando+el+eco+de+puertos+olvidados.;%3E_+%E5%8F%A4%E3%81%84%E3%83%AD%E3%82%B0%E3%81%AB%E6%BD%9C%E3%82%80%E5%BD%B1...;%3E_+Asegurando+la+red+mientras+el+terminal+vigila." alt="Typing SVG" />
   </a>
 </div>
 
