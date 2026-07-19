@@ -10,28 +10,30 @@
 
 # ¡Hola! Soy Zerif 👋
 
-Soy estudiante de **Ingeniería de Sistemas**, enfocado en adquirir habilidades sólidas en desarrollo de software, automatización de procesos y optimización de sistemas. Me apasiona resolver problemas complejos mediante lógica estructurada y código limpio.
+Estudio Ingeniería de Sistemas en la UPN y, básicamente, paso el tiempo intentando descifrar cómo funcionan las cosas por detrás. La ciberseguridad es lo que realmente me mueve; me fascina mirar más allá de la pantalla y encontrar esos detalles que pasan desapercibidos.
+
+No todo es código, claro. Mis noches tienen banda sonora: me pierdo entre beats de electrónica para concentrarme o pongo a Mon Laferte y Esperón cuando necesito algo más tranquilo. Cuando me alejo del teclado, me ves con una baraja en las manos practicando cardistry o cartomagia —porque, pensándolo bien, hackear un sistema y hacer un buen truco de magia se parecen mucho: ambos requieren técnica, entender qué está viendo el otro y ejecutar el movimiento perfecto. Ah, y siempre hay un espacio para Pokémon. Al final, veo la tecnología como un gran juego donde siempre hay algo nuevo por aprender.
 
 ### 🛠️ Tecnologías y Herramientas
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=239120" />
-  <img src="https://img.shields.io/badge/Visual_Studio_2022-000000?style=for-the-badge&logo=visual-studio&logoColor=5C2D91" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4" />
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-4E4E4E?style=for-the-badge&logo=termux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div>
 
-### 🚀 En lo que estoy trabajando actualmente
+### 🚀 Despliegues y Operaciones Actuales
 
-* 🐉 Recreando y optimizando animaciones cinemáticas clásicas mediante vectores dinámicos en la web modernos.
-* 📊 Desarrollando scripts de automatización en Python para la digitalización de registros de datos locales.
-* 🛡️ Explorando herramientas de diagnóstico de red y ciberseguridad en entornos móviles.
+* 🛡️ **Seguridad Ofensiva:** Estructurando un *Web Vulnerability Scanner* y auditando redes desde entornos de terminal móvil.
+* 📊 **Automatización de Sistemas:** Diseñando ecosistemas en Python para erradicar registros manuales y optimizar la logística de ventas en negocios físicos.
+* 🐉 **Desarrollo Frontend:** Optimizando animaciones cinemáticas clásicas mediante la manipulación de vectores dinámicos para entornos web modernos.
 
-### 📫 Cómo contactarme
+### 📫 Establecer Conexión
 
 * **Instagram:** [@0xMAG1C](https://www.instagram.com/0xMAG1C/)
-* **Email:** [goldcindaquil@gmail.com](mailto:goldcindaquil@gmail.com)
+* **Terminal segura (Email):** [goldcindaquil@gmail.com](mailto:goldcindaquil@gmail.com)
 
 ---
-*"El código miente, la carta distrae. La magia está en lo que todos ignoran."*
+> *"El código miente, la carta distrae. La magia está en lo que todos ignoran."*
