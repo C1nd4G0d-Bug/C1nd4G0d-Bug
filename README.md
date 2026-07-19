@@ -26,9 +26,10 @@ No todo es código, claro. Mis noches tienen banda sonora: me pierdo entre beats
 
 ### 🚀 Despliegues y Operaciones Actuales
 
-* 🛡️ **Seguridad Ofensiva:** Estructurando un *Web Vulnerability Scanner* y auditando redes desde entornos de terminal móvil.
-* 📊 **Automatización de Sistemas:** Diseñando ecosistemas en Python para erradicar registros manuales y optimizar la logística de ventas en negocios físicos.
+* 🛡️ **Seguridad Ofensiva:** Desarrollando herramientas tácticas de reconocimiento en Python para automatizar la auditoría de redes y escaneo de vulnerabilidades desde entornos móviles.
+* 📊 **Automatización Defensiva:** Construyendo motores analíticos para procesar tráfico de red masivo y cazar amenazas mediante la detección matemática de anomalías y *outliers*.
 * 🐉 **Desarrollo Frontend:** Optimizando animaciones cinemáticas clásicas mediante la manipulación de vectores dinámicos para entornos web modernos.
+* 🃏 **Criptografía Aplicada:** Diseñando proyectos experimentales de ofuscación de datos basados en la lógica de ocultamiento y manipulación de la cartomagia.
 
 ### 📫 Establecer Conexión
 
