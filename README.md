@@ -30,7 +30,7 @@ No todo es código, claro. Mis noches tienen banda sonora: me pierdo entre beats
 * 📊 **Automatización Defensiva:** Construyendo motores analíticos para procesar tráfico de red masivo y cazar amenazas mediante la detección matemática de anomalías y *outliers*.
 * 🐉 **Desarrollo Frontend:** Optimizando animaciones cinemáticas clásicas mediante la manipulación de vectores dinámicos para entornos web modernos.
 * 🃏 **Criptografía Aplicada:** Diseñando proyectos experimentales de ofuscación de datos basados en la lógica de ocultamiento y manipulación de la cartomagia.
-* * 🌌 **Sistemas Interactivos & Gráficos 3D:** Arquitectando experiencias cinemáticas en tiempo real mediante simulación de partículas, análisis gestual por visión artificial y procesamiento reactivo de audio.
+* 🌌 **Sistemas Interactivos & Gráficos 3D:** Arquitectando experiencias cinemáticas en tiempo real mediante simulación de partículas, análisis gestual por visión artificial y procesamiento reactivo de audio.
 
 ### 📫 Establecer Conexión
 
