@@ -12,7 +12,6 @@
 
 Estudio Ingeniería de Sistemas en la UPN y, básicamente, paso el tiempo intentando descifrar cómo funcionan las cosas por detrás. La ciberseguridad es lo que realmente me mueve; me fascina mirar más allá de la pantalla y encontrar esos detalles que pasan desapercibidos.
 
-No todo es código, claro. Mis noches tienen banda sonora: me pierdo entre beats de electrónica para concentrarme o pongo a Mon Laferte y Esperón cuando necesito algo más tranquilo. Cuando me alejo del teclado, me ves con una baraja en las manos practicando cardistry o cartomagia —porque, pensándolo bien, hackear un sistema y hacer un buen truco de magia se parecen mucho: ambos requieren técnica, entender qué está viendo el otro y ejecutar el movimiento perfecto. Ah, y siempre hay un espacio para Pokémon. Al final, veo la tecnología como un gran juego donde siempre hay algo nuevo por aprender.
 
 ### 🛠️ Tecnologías y Herramientas
 <div align="center">
